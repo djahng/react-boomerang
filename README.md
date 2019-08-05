@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Create a "boomerang" effect in React
+
+Takes a sequence of photos and animates it into a boomerang effect. This is accomplished through still photos, javascript, and React. No video files.
+
+The sequence used was captured by Eadweard Muybridge, who became famous in 1878 for capturing a series of photographs that settled the debate as to whether or not a galloping horse is ever fully airborne.
 
 ## Available Scripts
 
